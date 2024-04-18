@@ -2,4 +2,5 @@ dev7.1	->	XiaoHu22213	主仓库
 dev7.2  ->  hachwaire   队员1(测试)
 dev8.1	->	MovablePointD		队员1(测试)
 
-git pull 拉去最新代码
+
+队员1 hachwaire git pull 拉去最新代码
