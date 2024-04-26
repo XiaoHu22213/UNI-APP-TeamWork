@@ -1,17 +1,16 @@
 <template>
 	<view class="content">
-		<image class="logo" src="/static/logo.png"></image>
+		
 		<view>
 			<text class="title">{{title}}</text>
 		</view>
 
 		<view>
-			<b>发现了好事情</b>
+			<text>学vue吧，比html还简单</text>
 		</view>
 
 	</view>
 </template>
-
 <script>
 	export default {
 		data() {
