@@ -6,7 +6,7 @@
 		</view>
 
 		<view>
-			<text>学vue吧，比html还简单</text>
+			<text>学vue吧，比css</text>
 		</view>
 
 	</view>
