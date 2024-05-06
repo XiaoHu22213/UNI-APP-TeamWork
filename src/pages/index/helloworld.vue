@@ -6,6 +6,8 @@
 		</view>
 
 		<view>
+			<text>参与GitHbutler开源项目不？三天6K星的</text>
+			<text>变态好用的GitHbutler</text>
 			<text>学vue吧，比css</text>
 		</view>
 
