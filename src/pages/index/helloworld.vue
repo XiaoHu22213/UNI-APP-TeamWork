@@ -6,6 +6,7 @@
 		</view>
 
 		<view>
+			<text>开发GitButler吧！3天增加6k星标！！帮助可视化管理Git</text>
 			<text>学vue吧，比html还简单</text>
 		</view>
 
